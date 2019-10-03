@@ -22,4 +22,4 @@ This is For Git and Github test for DSC summer program in which all the particip
 * 🥇 Google Home Speaker
 * 🥇 Google Developer T-shirts
 *   Google Swags
-*   Visit to Google Office, Gurugram
+*   Visit to Google Office, Gurugram.
